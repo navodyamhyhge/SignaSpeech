@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">SignaSpeak</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_title">Welcome to SignaSpeak</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="signup_text">Don\'t have an account? Sign Up</string>
+
+    <!-- Sign Up Screen -->
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <!-- Validation Messages -->
+    <string name="error_empty_email">Email cannot be empty</string>
+    <string name="error_empty_password">Password cannot be empty</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">Login successful</string>
+    <string name="signup_success">Account created successfully</string>
+
+</resources>
