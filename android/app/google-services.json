@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684123174149",
+    "project_id": "sign-language-translator-6e778",
+    "storage_bucket": "sign-language-translator-6e778.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684123174149:android:a543668fde5b22ec54336c",
+        "android_client_info": {
+          "package_name": "com.example.signaspeech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCSxAq1jM6pf_VQtOWsGErZwpC60b79o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684123174149:android:aa85ab4dc1e794e754336c",
+        "android_client_info": {
+          "package_name": "com.prabuddhi.signtranslator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCSxAq1jM6pf_VQtOWsGErZwpC60b79o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
